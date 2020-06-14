@@ -403,6 +403,160 @@
     
 //Question 11
 //Chapter 9-11
+//Chapter  12-13
+//Question 1
+// var user = prompt("Enter Num,lowercase and upeercase letter")
+// if(user >= 65 && user <= 90 ){
+//       alert("you Enter Capital letter")
+// }
+// else if(user >= 97 && user <= 122 ){
+//       alert("you Enter Small letter")
+// }
+// else if(user >= 48 && user <= 57 ){
+//       alert("you Enter Number")
+// }
+// else if ((user>0 && ch<=47)||(user>=58 && ch<=64)||
+//                (user>=91 && ch<=96)||(user>=123 && ch<=127))
+//             alert("Character is a special symbol");
+            //Question 1
+
+// //Question 3
+// var num = parseFloat(prompt("Enter one number "))
+// if(num >= 48 && num <= 57){
+//       alert("Your num is positive")
+// }
+// else if(num >= -48 && num <= -57){
+//       alert("Your num is negative")
+// }
+// else if(num === 0){
+//       alert("your num is zero")
+// }
+//Question 3
+
+//Question 4
+// var vowel = prompt("enter vowel num ")
+// vowel = vowel.toLocaleLowerCase()
+// if(vowel == a || vowel == e || vowel == i || vowel == o || vowel == u ){
+//       alert("Yes! You Enter vowel ")
+// }
+// else{
+//       alert("wrong Num plz enter again")
+// }
+//Question 4
+//Question 5
+// var Password = 4678475211
+// var user1 = parseFloat(prompt("enter your password"))
+// if(Password == user1){
+//       alert("your passwod is correct")
+// }
+// else{
+//       alert("Check Your Password and try again")
+//       var user2 = parseFloat(prompt("In your Password"))
+//       if(Password == user2){
+//             alert("your password is correct")
+//       }
+//       else{
+//             alert("Sorry Your Password is no correct")
+//       }
+// }
+//Question 5
+//Question 6
+// var greeting; 
+// var hour = 13; 
+// if (hour < 18) { greeting = "Good day"}
+//  else {
+//        greeting = "Good evening"; 
+//       }   
+//Question 6
+//Question 7
+var user = prompt("Enter Time")
+if(user == "1am"){
+      alert('1')
+}
+if(user == "2am"){
+      alert('2')
+}
+if(user == "3am"){
+      alert('3')
+}
+if(user == "4am"){
+      alert('5')
+}
+if(user == "5am"){
+      alert('5')
+}
+if(user == "6am"){
+      alert('6')
+}
+if(user == "7am"){
+      alert('7')
+}
+if(user == "8am"){
+      alert('8')
+}
+if(user == "9am"){
+      alert('9')
+}
+if(user == "10am"){
+      alert('10')
+}
+if(user == "11am"){
+      alert('11')
+}
+
+if(user == "12am"){
+      alert('12')
+}
+if(user == "1pm"){
+      alert('13')
+}if(user == "1pm"){
+      alert('13')
+}
+
+if(user == "1pm"){
+      alert('13')
+}if(user == "1pm"){
+      alert('13')
+}
+if(user == "1pm"){
+      alert('13')
+}
+if(user == "2pm"){
+      alert('14')
+}
+if(user == "3pm"){
+      alert('15')
+}
+if(user == "4pm"){
+      alert('16')
+}
+if(user == "5pm"){
+      alert('17')
+}
+if(user == "6pm"){
+      alert('18')
+}
+if(user == "7pm"){
+      alert('19')
+}
+
+if(user == "8pm"){
+      alert('20')
+}if(user == "9pm"){
+      alert('21')
+}
+if(user == "10pm"){
+      alert('22')
+}
+if(user == "11pm"){
+      alert('23')
+}
+if(user == "12pm"){
+      alert('24')
+}
+
+//Question 7
+
 
 
     
